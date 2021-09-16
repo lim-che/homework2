@@ -1,5 +1,6 @@
 {
-   "homepage-notrender": "https://lim-che.github.io/homework2",
+  // "homepage-notrender": "https://lim-che.github.io/homework2",
+    "homepage": ".",
   "name": "my",
   "version": "0.1.0",
   "private": true,
